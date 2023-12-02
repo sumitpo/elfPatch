@@ -1,0 +1,4 @@
+src/*.o
+src/*.exe
+test/*.exe
+test/*.exe
